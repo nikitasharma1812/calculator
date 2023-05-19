@@ -1,0 +1,26 @@
+input[type="text"] {
+    padding: 6px 9px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+
+
+
+
+.btns{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+    border-radius: 50%;
+    background: #232020;
+    font-size: 20px;
+    color: white;
+  
+   
+}
+.btns.bg {
+    color: #ffaf2d;
+    border: none;
+}
